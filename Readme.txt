@@ -25,3 +25,4 @@ Our website showcases a variety of bakery items and provides a seamless experien
 - Database: (my sql)
 - Payment Integration: (e.g., Stripe, PayPal)
 - Deployment: (e.g., Vercel, Netlify, Heroku)
+http://127.0.0.1:5500/mycakebakery/index.html
